@@ -19,7 +19,6 @@ public class Position {
 
     public int getColumn() {
         return column;
-        return column;
     }
 
     public void setColumn(int column) {
