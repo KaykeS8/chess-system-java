@@ -7,7 +7,7 @@ import chess.pieces.King;
 import boardgame.Piece;
 
 public class ChessMatch {
-    private Board board;
+    private final Board board;
 
     public ChessMatch() {
         board = new Board(8,8);
